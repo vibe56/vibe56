@@ -9,12 +9,12 @@
 
 ## 🚀 About Me  
 
-- 🎓 Final-year **MBA (Business Analysis)** student  
-- 💻 2+ years experience in **React, WordPress & .NET Core**  
-- 🔁 Transitioning to **Java Full Stack (Spring Boot)**  
-- 🎨 Love clean **UI/UX with Figma**  
-- 👨‍🏫 Also a **teacher & content creator**  
-- 🌱 Currently learning **Microservices & DSA**  
+🔭 I’m currently working on: Full-stack projects using React & Spring Boot  
+👯 I’m looking to collaborate on: Open-source web development projects  
+🤝 I’m looking for help with: Backend architecture & cloud deployment  
+🌱 I’m currently learning: Java, Spring Boot, Microservices & DSA  
+💬 Ask me about: React, JavaScript, .NET Core, UI/UX Design  
+⚡ Fun fact: I enjoy teaching tech concepts in simple language 
 
 ---
 
